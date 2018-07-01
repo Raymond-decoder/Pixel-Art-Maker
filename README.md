@@ -31,7 +31,7 @@ I also added some few functionalities like _**Remove Grid**_ and _**Remove Color
 **Note:** the user can still click on a cell to clear the color on that very cell should s/he makes a _**minor**_ mistake while painting on the grid.
 
 ## Slack_Handle
-My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is [@Raymond (fe - team - 405)](https://alcwithgoogle3.slack.com/team/UAKLQ7VJ4). 
+My _**slack handle**_ for the [ALC with Google 3.0](alcwithgoogle3.slack.com) is [@Raymond (fe - team - 405)](https://alcwithgoogle3.slack.com). 
 
 ## Experience
 I gained a lot of experience during the training on Udacity and more during the project. Not only do I learnt how to manipulate the DOM with Javascript and jQuery but I also have the feeling that I can now build an interactive web page. 
